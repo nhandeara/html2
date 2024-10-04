@@ -1,0 +1,50 @@
+body{
+background-color: rgb(108, 163, 145);
+align-items: center;
+}
+
+.name{
+    background-color: #49bda7; 
+    border: 2px solid #14646c;
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 20%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.email{
+    background-color: #49bda7; 
+    border: 2px solid #14646c;
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 20%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.telefone{
+    background-color: #49bda7; 
+    border: 2px solid #14646c;
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 20%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.mensagem{
+    background-color: #49bda7; 
+    border: 2px solid #14646c;
+    border-radius: 8px; 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 45%; 
+    text-align: justify; 
+    font-family: Arial, sans-serif; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/css2.css">
+</head>
+<body>
+    <form action="/pagina-processados-form" method="post">
+
+        <section class="name">
+        <label for="nome"><strong>Nome:</strong></label>
+        <input type="text" name="nome" class="nome" required>
+    </section>
+
+        <br/>
+        <section class="email">
+        <label for="email">email:</label>
+        <input id="email" type="email" required>
+        </section>
+
+        <br/>
+
+        <section class="telefone">                                                
+        <label for="telefone">Fone:</label>
+       <input type="tel" type="tel" placeholder="(xx)xxxxx-xxxx" required>
+    </section>
+
+       <br/>
+
+       <section class="mensagem">
+       <label for="mensagem">mensagem</label>
+       <textarea id="mensagem" cols="70" rows="10"></textarea>
+    </section>
+
+
+       <button type="submit">Enviar</button>
+
+    </form>
+</body>
+</html>
